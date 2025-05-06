@@ -1,1 +1,1 @@
-This is  branch a change
+this is resolved conflict for both branches
