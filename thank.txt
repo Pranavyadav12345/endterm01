@@ -1,1 +1,1 @@
-This is original line
+This is branch B's change
